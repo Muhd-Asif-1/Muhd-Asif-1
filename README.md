@@ -1,25 +1,71 @@
-<p align="center">
-  <img src="assets/profile-header.gif" alt="Muhammed Asif - Full-stack developer. Build the interface. Connect the backend. Make it work together." width="100%" />
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg" />
+  <img src="assets/profile-hero.svg" alt="Muhammed Asif - Full-Stack Developer. Building reliable software, from interface to infrastructure. Web applications, APIs, integrations, and automation." width="100%" />
+</picture>
 
-## A little about me
+## About
 
-Hey, I'm **Asif** 👋 - a full-stack developer from **Kannur, Kerala, India**. I work across the browser and backend, building web applications, APIs, and integrations between systems.
+I'm **Asif**, a full-stack developer from **Kannur, Kerala, India**. I build web applications and backend systems, working across frontend interfaces, APIs, databases, payment integrations, and automated workflows.
 
-> Most of my professional work lives in private company repositories. This space is a snapshot of my skills and the kind of development I do.
+My work involves translating product requirements into functional software, connecting services, implementing business logic, and improving performance and reliability. Most of my professional work lives in private company repositories.
 
-## From interface to integration
+## What I build
 
-- **Web experiences** - React and Next.js interfaces, styling, and application flows.
-- **Backend connections** - APIs and integrations that connect applications and services.
-- **Everyday automation** - scheduled jobs and data-sync workflows.
+- **Web applications** - Responsive interfaces, administrative dashboards, CRM systems, and full-stack applications with React and Next.js.
+- **Backend systems** - REST APIs, authentication, authorization, business logic, and database architecture, including Laravel applications with Inertia.js and React.
+- **Payment integrations** - Gateway integrations, webhook processing, transaction verification, and reconciliation.
+- **Background processing** - Scheduled jobs, workers, notifications, automated workflows, and data synchronization.
+- **System integrations** - Third-party APIs and communication between applications and external services.
 
-## My toolkit
+## Toolkit
+
+<img src="assets/toolkit-frontend.svg" alt="React logo" width="24" height="24" /> **Frontend**
+
+React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Material UI · Framer Motion<br>
+Data and validation: TanStack Query · React Hook Form · Zod
+
+<img src="assets/toolkit-backend.svg" alt="Laravel logo" width="24" height="24" /> **Backend**
+
+Node.js · Express.js · Laravel · PHP · Inertia.js<br>
+REST APIs · Authentication and authorization · Business logic
+
+<img src="assets/toolkit-databases.svg" alt="MySQL logo" width="24" height="24" /> **Databases**
+
+MongoDB · MySQL
+
+<img src="assets/toolkit-integrations.svg" alt="Stripe logo" width="24" height="24" /> **Integrations**
+
+Stripe · Razorpay · Telr · Webhooks · Third-party APIs<br>
+Payment verification and reconciliation
+
+<img src="assets/toolkit-tools.svg" alt="Linux logo" width="24" height="24" /> **Tools & environment**
+
+Git · GitHub · pnpm · npm · Postman · Linux · VS Code
+
+## Featured projects
+
+*A public case study will be added here when suitable work is ready to share.*
+
+<!-- Future project entry: verified project name, one-sentence description,
+main technologies, and actual repository URL. Include a live demo only when
+it exists. Keep private company information and implementation details out. -->
+
+## GitHub activity
+
+<a href="https://github.com/Muhd-Asif-1?tab=overview#contributions">
+  <img src="https://streak-stats.demolab.com?user=Muhd-Asif-1&amp;hide_border=true&amp;background=0E1726&amp;stroke=2C3B50&amp;ring=8FE9C5&amp;fire=8FE9C5&amp;currStreakNum=F2F5FB&amp;sideNums=F2F5FB&amp;currStreakLabel=8FE9C5&amp;sideLabels=BDC9DA&amp;dates=94A5BB" alt="Live contribution statistics for Muhd-Asif-1. If the card is unavailable, use the GitHub contribution history link below." width="420" />
+</a>
+
+[View contribution history on GitHub](https://github.com/Muhd-Asif-1?tab=overview#contributions). Private company work may not be reflected in public activity.
+
+## Engineering interests
+
+Areas I work with and want to explore further: backend architecture, system design, scalable applications, payment reliability, API design, database optimization, and performance and reliability engineering.
+
+## Let's connect
 
 <p>
-  <img src="assets/tech-stack.svg" alt="Frontend: React, Next.js, TypeScript, Tailwind CSS. Backend: Node.js, Express, JavaScript. Tools: Git, GitHub, npm, pnpm." width="100%" />
-</p>
-
-<p align="center">
   <a href="mailto:muhdasif.in@gmail.com"><img src="assets/contact.svg" alt="Let's connect - email Muhammed Asif" height="36" /></a>
+  &nbsp; <a href="https://www.linkedin.com/in/muhd-asif/">LinkedIn</a>
+  &nbsp; · &nbsp; <a href="https://github.com/Muhd-Asif-1">GitHub</a>
 </p>
