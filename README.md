@@ -19,26 +19,26 @@ My work involves translating product requirements into functional software, conn
 
 ## Toolkit
 
-<img src="assets/toolkit-frontend.svg" alt="React logo" width="24" height="24" /> **Frontend**
+<img src="assets/toolkit-frontend.svg" alt="Frontend" width="220" height="28" />
 
 React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Material UI · Framer Motion<br>
 Data and validation: TanStack Query · React Hook Form · Zod
 
-<img src="assets/toolkit-backend.svg" alt="Laravel logo" width="24" height="24" /> **Backend**
+<img src="assets/toolkit-backend.svg" alt="Backend" width="220" height="28" />
 
 Node.js · Express.js · Laravel · PHP · Inertia.js<br>
 REST APIs · Authentication and authorization · Business logic
 
-<img src="assets/toolkit-databases.svg" alt="MySQL logo" width="24" height="24" /> **Databases**
+<img src="assets/toolkit-databases.svg" alt="Databases" width="220" height="28" />
 
 MongoDB · MySQL
 
-<img src="assets/toolkit-integrations.svg" alt="Stripe logo" width="24" height="24" /> **Integrations**
+<img src="assets/toolkit-integrations.svg" alt="Integrations" width="220" height="28" />
 
 Stripe · Razorpay · Telr · Webhooks · Third-party APIs<br>
 Payment verification and reconciliation
 
-<img src="assets/toolkit-tools.svg" alt="Linux logo" width="24" height="24" /> **Tools & environment**
+<img src="assets/toolkit-tools.svg" alt="Tools & environment" width="220" height="28" />
 
 Git · GitHub · pnpm · npm · Postman · Linux · VS Code
 
@@ -65,7 +65,7 @@ Areas I work with and want to explore further: backend architecture, system desi
 ## Let's connect
 
 <p>
-  <a href="mailto:muhdasif.in@gmail.com"><img src="assets/contact.svg" alt="Let's connect - email Muhammed Asif" height="36" /></a>
-  &nbsp; <a href="https://www.linkedin.com/in/muhd-asif/">LinkedIn</a>
-  &nbsp; · &nbsp; <a href="https://github.com/Muhd-Asif-1">GitHub</a>
+  <a href="mailto:muhdasif.in@gmail.com"><img src="assets/contact.svg" alt="Email Muhammed Asif" width="174" height="36" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/muhd-asif/"><img src="assets/contact-linkedin.svg" alt="Muhammed Asif on LinkedIn" width="36" height="36" /></a>&nbsp;
+  <a href="https://github.com/Muhd-Asif-1"><img src="assets/contact-github.svg" alt="Muhammed Asif on GitHub" width="36" height="36" /></a>
 </p>
