@@ -19,28 +19,33 @@ My work involves translating product requirements into functional software, conn
 
 ## Toolkit
 
-<img src="assets/toolkit-frontend.svg" alt="Frontend" width="220" height="28" />
+<p>
+  <img src="assets/toolkit-frontend.svg" alt="Frontend" width="220" height="28" /><br>
+  React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Material UI · Framer Motion<br>
+  Data and validation: TanStack Query · React Hook Form · Zod
+</p>
 
-React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Material UI · Framer Motion<br>
-Data and validation: TanStack Query · React Hook Form · Zod
+<p>
+  <img src="assets/toolkit-backend.svg" alt="Backend" width="220" height="28" /><br>
+  Node.js · Express.js · Laravel · PHP · Inertia.js<br>
+  REST APIs · Authentication and authorization · Business logic
+</p>
 
-<img src="assets/toolkit-backend.svg" alt="Backend" width="220" height="28" />
+<p>
+  <img src="assets/toolkit-databases.svg" alt="Databases" width="220" height="28" /><br>
+  MongoDB · MySQL
+</p>
 
-Node.js · Express.js · Laravel · PHP · Inertia.js<br>
-REST APIs · Authentication and authorization · Business logic
+<p>
+  <img src="assets/toolkit-integrations.svg" alt="Integrations" width="220" height="28" /><br>
+  Stripe · Razorpay · Telr · Webhooks · Third-party APIs<br>
+  Payment verification and reconciliation
+</p>
 
-<img src="assets/toolkit-databases.svg" alt="Databases" width="220" height="28" />
-
-MongoDB · MySQL
-
-<img src="assets/toolkit-integrations.svg" alt="Integrations" width="220" height="28" />
-
-Stripe · Razorpay · Telr · Webhooks · Third-party APIs<br>
-Payment verification and reconciliation
-
-<img src="assets/toolkit-tools.svg" alt="Tools & environment" width="220" height="28" />
-
-Git · GitHub · pnpm · npm · Postman · Linux · VS Code
+<p>
+  <img src="assets/toolkit-tools.svg" alt="Tools &amp; environment" width="220" height="28" /><br>
+  Git · GitHub · pnpm · npm · Postman · Linux · VS Code
+</p>
 
 ## Featured projects
 
