@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/profile-header.gif" alt="Muhammed Asif — Full-stack developer. Build the interface. Connect the backend. Make it work together." width="100%" />
+  <img src="assets/profile-header.gif" alt="Muhammed Asif - Full-stack developer. Build the interface. Connect the backend. Make it work together." width="100%" />
 </p>
 
 ## A little about me
 
-Hey, I'm **Asif** 👋 — a full-stack developer from **Kannur, Kerala, India**. I work across the browser and backend, building web applications, APIs, and integrations between systems.
+Hey, I'm **Asif** 👋 - a full-stack developer from **Kannur, Kerala, India**. I work across the browser and backend, building web applications, APIs, and integrations between systems.
 
 > Most of my professional work lives in private company repositories. This space is a snapshot of my skills and the kind of development I do.
 
 ## From interface to integration
 
-- **Web experiences** — React and Next.js interfaces, styling, and application flows.
-- **Backend connections** — APIs and integrations that connect applications and services.
-- **Everyday automation** — scheduled jobs and data-sync workflows.
+- **Web experiences** - React and Next.js interfaces, styling, and application flows.
+- **Backend connections** - APIs and integrations that connect applications and services.
+- **Everyday automation** - scheduled jobs and data-sync workflows.
 
 ## My toolkit
 
@@ -21,5 +21,5 @@ Hey, I'm **Asif** 👋 — a full-stack developer from **Kannur, Kerala, India**
 </p>
 
 <p align="center">
-  <a href="mailto:muhdasif.in@gmail.com"><img src="assets/contact.svg" alt="Let's connect — email Muhammed Asif" height="36" /></a>
+  <a href="mailto:muhdasif.in@gmail.com"><img src="assets/contact.svg" alt="Let's connect - email Muhammed Asif" height="36" /></a>
 </p>
