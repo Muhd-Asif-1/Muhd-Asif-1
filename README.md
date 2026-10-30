@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Muhammed Asif — Full-stack developer. Web interfaces and backend integrations." width="100%" />
+  <img src="assets/profile-header.gif" alt="Muhammed Asif — Full-stack developer. Build the interface. Connect the backend. Make it work together." width="100%" />
 </p>
 
-## Hi, I'm Asif 👋
+## A little about me
 
-I'm a full-stack developer based in **Kannur, Kerala, India**, working across web interfaces, APIs, and backend integrations.
+Hey, I'm **Asif** 👋 — a full-stack developer from **Kannur, Kerala, India**. I work across the browser and backend, building web applications, APIs, and integrations between systems.
 
-Most of my professional work has been in private company repositories.
+> Most of my professional work lives in private company repositories. This space is a snapshot of my skills and the kind of development I do.
 
-## Tech stack
+## From interface to integration
 
-**Frontend** &nbsp; `React` `Next.js` `TypeScript` `Tailwind CSS`
+- **Web experiences** — React and Next.js interfaces, styling, and application flows.
+- **Backend connections** — APIs and integrations that connect applications and services.
+- **Everyday automation** — scheduled jobs and data-sync workflows.
 
-**Backend & integrations** &nbsp; `Node.js` `Express` `JavaScript` `REST APIs`
+## My toolkit
 
-**Tools** &nbsp; `Git` `GitHub` `npm` `pnpm`
+<p>
+  <img src="assets/tech-stack.svg" alt="Frontend: React, Next.js, TypeScript, Tailwind CSS. Backend: Node.js, Express, JavaScript. Tools: Git, GitHub, npm, pnpm." width="100%" />
+</p>
 
----
-
-Have a project or an integration to discuss? **[Get in touch.](mailto:muhdasif.in@gmail.com)**
+<p align="center">
+  <a href="mailto:muhdasif.in@gmail.com"><img src="assets/contact.svg" alt="Let's connect — email Muhammed Asif" height="36" /></a>
+</p>
